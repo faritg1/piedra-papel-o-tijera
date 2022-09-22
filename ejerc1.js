@@ -13,7 +13,6 @@ while(cont2 < cont1){
 
     usu =+ prompt("Escoja una 👇 \n1.piedra \n2.papel \n3.tijera")
 
-
     if(usu == ran)
     {
         alert("partida "+(cont2+1)+" EMPATE")
